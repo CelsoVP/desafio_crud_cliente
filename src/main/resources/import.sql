@@ -1,0 +1,16 @@
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Pero Vaz de Caminha', '125349895-85',23465.25,'1450-05-18',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('José de Anchieta', '135349895-85',14465.25,'1534-03-19',3);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Zumbi dos Palmares', '145349895-85',25465.25,'1655-07-19',0);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Joaquim José da Silva Xavier', '155349895-85',26465.25,'1746-11-12',0);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('José Bonifácio de Andrada e Silva', '165349895-85',37465.25,'1763-06-13',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Dom Pedro I', '175349895-85',8465.25,'1798-10-12',6);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Dom Pedro II', '185349895-85',9465.25,'1825-12-02',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Princesa Isabel', '195349895-85',10465.25,'1846-07-29',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Joaquim Maria Machado de Assis', '225349895-85',11465.25,'1839-06-21',4);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('José Maria da Silva Paranhos Júnior', '325349895-85',12465.25,'1845-04-20',5);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Marechal Deodoro da Fonseca', '425349895-85',13465.25,'1827-08-05',3);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Marechal Floriano Peixoto', '525349895-85',14365.25,'1839-04-30',2);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Dr. Prudente de Morais', '625349895-85',15465.25,'1841-10-04',1);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Dr. Manuel Ferraz de Campos Sales', '725349895-85',16465.25,'1841-02-15',6);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Marechal Hermes da Fonseca', '825349895-85',17465.25,'1855-05-12',5);
+INSERT INTO tb_client(name,cpf,income,birth_date,children)VALUES('Marechal Manuel Deodoro da Fonseca', '925349895-85',18465.25,'1849-05-16',1);
